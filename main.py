@@ -250,7 +250,4 @@ async def leave(ctx):
   
 
 
-
-
-  
-# bot.run(TOKEN) 
+bot.run(TOKEN) 
